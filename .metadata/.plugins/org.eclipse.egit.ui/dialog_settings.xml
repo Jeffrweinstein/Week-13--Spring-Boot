@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Jeffrweinstein/Spring-Boot-Course-Student-Resources/tree/main/Files"/>
+		<item value="https://github.com/Jeffrweinstein/Spring-Boot-Course-Student-Resources/tree/main/Files/src/test/resources/flyway"/>
+		<item value="https://github.com/joshuatmello/Week13WebAPIDesignwithSpringBoot/blob/main/src/test/resources/flyway/conf/flyway.conf"/>
+		<item value="https://github.com/Jeffrweinstein/Spring-Boot-Course-Student-Resources/blob/main/Files/src/test/resources/flyway/conf/flyway.conf"/>
+		<item value="https://github.com/Jeffrweinstein/Spring-Boot-Course-Student-Resources/tree/main/Files/src/test/resources/flyway/conf"/>
+	</list>
+	<section name="GitImportWizard">
+	</section>
+</section>
